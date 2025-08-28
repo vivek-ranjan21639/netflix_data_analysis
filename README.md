@@ -1,8 +1,8 @@
 # Netflix_data_analysis
 ## Project Description
 
-** Name of the project:** Netflix data analysis  
-** Data:** `netflix_titles`  
+**Name of the project:** Netflix data analysis  
+**Data:** `netflix_titles`  
 **Project Owner:** Vivek Ranjan  
 **Email ID:** vivekranjan21639@gmail.com   
 **Linked Profile:** https://www.linkedin.com/in/vivek-ranjan-jnu/
