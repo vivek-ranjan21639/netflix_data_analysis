@@ -42,17 +42,15 @@ What proportion of Netflix’s catalog is made up of Movies compared to TV Shows
 ## Findings of the project
 
 Some of the insights to the above business questions are as follow:
-- Movies dominate Netflix’s catalog, forming a much larger share compared to TV Shows.
-- Significant surge in content addition after 2015, aligning with Netflix’s global expansion.
-- Peak years of new releases are between 2017–2019.
-- United States is the top content producer, followed by India and a few other countries.
-- Content diversity has increased, with more titles coming from Asia, Europe, and Latin America in recent years.
-- Drama, Comedy, and Documentaries dominate the catalog.
-- Thriller, Action, and International TV Shows are also strong contributors.
-- Most content is rated TV-MA (Mature Audiences) or R, reflecting Netflix’s focus on adult-oriented shows.
-- Family/kids content exists but forms a smaller share.
-- Some directors (especially from Bollywood and Hollywood) are highly frequent.
-- A few actors appear in multiple Netflix productions, often tied to regional content strategies.
-- Most movies are between 80–120 minutes.
-- Outliers exist with very short or very long runtimes.
-- Majority of TV Shows have only 1 season, indicating Netflix’s strategy of shorter limited series.
+1. It is recommended to add focus on R and TV-MA rated movies while considering to add content for US, UK and Canada. For India the focus should be on movies with rating TV-14.
+2. while considering to add more TV shows Netflix can adopt various approches:
+      i. When considering for global audiance TV shows with rating TV-MA should be preffered as it.
+      ii. When considering country specific audiance, it is recommended to add TV shows specific to countries like TV-MA rating shows for US, India, and UK. while for Camada It shold focus on adding more TV shows with Tv-Y rating.
+3. Additionally, Netflix can experiment adding TV shows with TV-Y rating in India. Since, This TV shows with rating TV-Y is not available in India, it is unknown how would Indians react to such content. So, There is a scope of experimentation
+4. Netflix or OTT platforms in general are recommended to add content of length 90-120 minutes for US, Uk, and Canadians while for India longer format movies are recommended (120-150 minutes). However, for global audiance, the movies with length 90-120 minutes should be preffered.
+5. It is recommended that for India shorter format of TV shows should be preffered to produce or to be added for OTT audiance while for US, UK, and canada, longer format would also work.
+6. For global audiance, TV shows preferably of one season should be focussed.
+7. In India, documentry type zenre are not very popular both in movies as well as TV Shows. while other countries US, UK, and Canada there are considerable no. of documetry Zenre contents. So, While adding contnets on Netflix or on OTT platforms in general, this maybe cared.
+8. Short length of movies are not very prevalent in India on Netflix while in rest of the countries US, UK, and Canada, a good number of short length content were present.
+
+#### ***There is not enough data presnet to provide a lot of business apllicable insights. For example, if data on watching indecies were present or cost and revenue indices were present, a robust analysis could have been done and a lot of business insights could have been drawn***
