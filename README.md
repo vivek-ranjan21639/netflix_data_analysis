@@ -2,9 +2,9 @@
 ## Project Description
 
 ** Name of the project:** Netflix data analysis  
-** Data:** `netflix_titles`
-**Project Owner:** Vivek Ranjan
-**Email ID:** vivekranjan21639@gmail.com
+** Data:** `netflix_titles`  
+**Project Owner:** Vivek Ranjan  
+**Email ID:** vivekranjan21639@gmail.com   
 **Linked Profile:** https://www.linkedin.com/in/vivek-ranjan-jnu/
 
 This project is a data analysis case study on Netflix’s catalog of movies and TV shows, aimed at uncovering patterns, trends, and insights about the platform’s global content strategy. The dataset used contains metadata such as title, type (Movie/TV Show), director, cast, country of origin, release year, rating, and genre.
